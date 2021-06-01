@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/sportz-interactive/static/css/main.c98f7d6b.chunk.css",
+    "main.js": "/sportz-interactive/static/js/main.256f080a.chunk.js",
+    "main.js.map": "/sportz-interactive/static/js/main.256f080a.chunk.js.map",
+    "runtime-main.js": "/sportz-interactive/static/js/runtime-main.a749e236.js",
+    "runtime-main.js.map": "/sportz-interactive/static/js/runtime-main.a749e236.js.map",
+    "static/js/2.bc3d545b.chunk.js": "/sportz-interactive/static/js/2.bc3d545b.chunk.js",
+    "static/js/2.bc3d545b.chunk.js.map": "/sportz-interactive/static/js/2.bc3d545b.chunk.js.map",
+    "static/js/3.6bc16a52.chunk.js": "/sportz-interactive/static/js/3.6bc16a52.chunk.js",
+    "static/js/3.6bc16a52.chunk.js.map": "/sportz-interactive/static/js/3.6bc16a52.chunk.js.map",
+    "index.html": "/sportz-interactive/index.html",
+    "static/css/main.c98f7d6b.chunk.css.map": "/sportz-interactive/static/css/main.c98f7d6b.chunk.css.map",
+    "static/js/2.bc3d545b.chunk.js.LICENSE.txt": "/sportz-interactive/static/js/2.bc3d545b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a749e236.js",
+    "static/js/2.bc3d545b.chunk.js",
+    "static/css/main.c98f7d6b.chunk.css",
+    "static/js/main.256f080a.chunk.js"
+  ]
+}
